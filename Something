@@ -1,1 +1,2 @@
 Catalan number - formula for different ways of constructing binary trees
+Disjoint set - a structure where two different sets don't have anything in common and every element in one set has **one** main element. Delete, union, add, search in constant time
